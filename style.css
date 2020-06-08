@@ -1,0 +1,16 @@
+style.css
+<style>
+body{
+    background-color:black;
+}
+
+
+.profile-border{
+    border-radius:40%;
+    border-color:black;
+    border-style: solid;
+    boder-width:10px
+}
+
+
+</style>
